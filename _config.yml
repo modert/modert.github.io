@@ -1,3 +1,5 @@
+theme: jekyll-theme-hacker
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -15,5 +17,3 @@ defaults:
       path: ""
     values:
       layout: "default"
-
-theme: jekyll-theme-hacker
