@@ -5,6 +5,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+show_downloads: "false"
+google_analytics:
+
+title: modert.dev
+description: This is where I share some of the interesting things I've learned while knocking out problems!
+
 # remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 defaults:
